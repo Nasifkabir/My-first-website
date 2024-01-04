@@ -1,0 +1,9 @@
+.Heading{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    color: tomato;
+}
+.blog{
+    padding: 10px;
+    background-color: aqua;
+}
